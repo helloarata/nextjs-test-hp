@@ -5,7 +5,7 @@ export default function Home() {
     <Layout title="Home">
       <section>
         <h2>共に壮大な物語をつくりましょう。</h2>
-        <p>Let's create an epic story together.</p>
+        <p>Let&apos;s create an epic story together.</p>
       </section>
       <section>
         <h2>Concept</h2>

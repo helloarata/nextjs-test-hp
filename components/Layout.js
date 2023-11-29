@@ -12,7 +12,6 @@ export default function Layout({children, title = "HP Next.js"}) {
           <div className={styles.nav__inner}>
             <div className={styles.nav__inner_nav}>
               <Link href="/" className={styles.nav__inner_link}>Home</Link>
-              <Link href="/about-the-company" className={styles.nav__inner_link}>Company</Link>
               <Link href="/blog" className={styles.nav__inner_link}>Blog</Link>
             </div>
           </div>
